@@ -1,2 +1,3 @@
 # bloomStory
-Demo
+Know about, What do we do?
+
